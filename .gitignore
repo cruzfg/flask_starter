@@ -162,3 +162,8 @@ yarn-error.log*
 .vscode
 .vscode*
 .vscode/
+
+#idea - jetbrain
+.idea
+.idea/*
+.idea/
